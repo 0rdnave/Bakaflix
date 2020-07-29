@@ -1,17 +1,18 @@
 * {
   box-sizing: border-box;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Teko', sans-serif;
 }
 
 :root {
-  --primary: #2A7AE4;
+  --primary: #4b0082;
   --black: #000000;
   --blackLighter: #9E9E9E;
   --grayLight: #F5F5F5;
+  --grayDark: #141414;
   --grayMedium: #e5e5e5; 
   --white: #FFFFFF;
-  --frontEnd: #6BD1FF;
-  --backEnd: #00C86F;
+  --frontEnd: #4b0082;
+  --backEnd: #E69A17;
 }
 
 html,
@@ -22,4 +23,10 @@ body {
 
 a {
   color: inherit;
+}
+
+#root {
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  display: flex;
+  flex-direction: column;
 }
