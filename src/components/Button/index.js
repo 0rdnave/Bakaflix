@@ -1,7 +1,8 @@
-import styled from "styled-components"
+import styled from 'styled-components';
 
-const Button = styled.button `
+const Button = styled.button`
     border: 1px solid var(--white);
+    background: var(--black);
     border-radius: 4px;
     color: var(--white);
     font-size: 16px;
@@ -28,6 +29,6 @@ const Button = styled.button `
     right: 0;
     text-align: center;
 }
-`
+`;
 
-export default Button
+export default Button;
