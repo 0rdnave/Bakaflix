@@ -21,6 +21,7 @@ const Pagina404 = () => (
     {/*
       Pessoal, quem quiser fazer o desafio do Flappy Bird, da pra usar esse iframe aqui: 
       - https://codepen.io/omariosouto/pen/pogmdGE
+
       E quem quiser programar o jogo:
       - https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej
     */}

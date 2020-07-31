@@ -1,17 +1,17 @@
 {
   "categorias": [
     {
-      "titulo": "Classicos",
-      "link": "playlist01",
+      "titulo": "Front End",
+      "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Old but goot times",
-        "url": "playlist01"
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
       },
-     "videos": [
-       {
-          "titulo": "Durarara Opening 1",
-          "url": "https://www.youtube.com/watch?v=Zmy0jMafQrI"
+      "videos": [
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
         },
         {
           "titulo": "SEO com React",
@@ -44,11 +44,11 @@
       ]
     },
     {
-      "titulo": "Ação",
+      "titulo": "Back End",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Let's Jam",
-        "url": "playlist02"
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
         {
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "titulo": "Comédia",
+      "titulo": "Data Science e Inteligência Artificial",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Excellent!!!",
-        "url": "playlist03"
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
         {
@@ -102,10 +102,6 @@
     {
       "titulo": "Filmes",
       "cor": "orange",
-      "link_extra": {
-        "text": "a heart's a heavy burden",
-        "url": "playlist04"
-      },
       "videos": [
         {
           "titulo": "Interestellar",
@@ -126,11 +122,11 @@
       ]
     },
     {
-      "titulo": "Drama",
+      "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "If your life can change once, your life can change again",
-        "url": "playlist05"
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
         {
@@ -156,11 +152,11 @@
       ]
     },
     {
-      "titulo": "Romance",
+      "titulo": "Aprendendo a aprender tecnologia",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "If it’s just sweet, then let’s put salt on",
-        "url": "playlist06"
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
         {
